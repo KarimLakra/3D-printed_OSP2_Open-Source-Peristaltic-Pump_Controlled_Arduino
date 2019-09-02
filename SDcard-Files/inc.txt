@@ -1,0 +1,4 @@
+Interval: 5
+Start quantity: 6
+Increment: 8
+Repeat: 10

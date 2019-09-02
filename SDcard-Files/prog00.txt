@@ -1,0 +1,20 @@
+Program name: default program
+Interval: 60
+Dose1: 0.1
+Dose2: 0.1
+Dose3: 0.5
+Dose4: 0.5
+Dose5: 1
+Dose6: 1
+Dose7: 3
+Dose8: 3
+Dose9: 5
+Dose10: 5
+Dose11: 10
+Dose12: 10
+Dose13: 25
+Dose14: 25
+Dose15: 50
+Dose16: 50
+Dose17: 100
+Dose18: 100

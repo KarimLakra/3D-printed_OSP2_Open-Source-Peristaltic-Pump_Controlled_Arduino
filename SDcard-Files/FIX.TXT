@@ -1,0 +1,3 @@
+Interval: 5
+Quantity: 5.00
+Repeat: 20

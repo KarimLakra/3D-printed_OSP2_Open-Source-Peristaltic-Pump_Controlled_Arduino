@@ -1,0 +1,20 @@
+Program name: program 02
+Interval: 5
+Dose1: 0.5
+Dose2: 0.1
+Dose3: 1
+Dose4: 0.4
+Dose5: 0.6
+Dose6: 0.4
+Dose7: 1
+Dose8: 0.1
+Dose9: 0.1
+Dose10: 0.1
+Dose11: 10
+Dose12: 10
+Dose13: 25
+Dose14: 25
+Dose15: 50
+Dose16: 50
+Dose17: 100
+Dose18: 100

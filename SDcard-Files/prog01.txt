@@ -1,0 +1,20 @@
+Program name: program 01
+Interval: 15
+Dose1 : 8.8
+Dose2 : 8.8
+Dose3 : 8.8
+Dose4 : 8.8
+Dose5 : 8.8
+Dose6 : 8.8
+Dose7 : 8.8
+Dose8 : 8.8
+Dose9 : 8.8
+Dose10 : 8.8
+Dose11 : 8.8
+Dose12 : 8.8
+Dose13 : 8.8
+Dose14 : 8.8
+Dose15 : 8.8
+Dose16 : 8.8
+Dose17 : 8.8
+Dose18 : 8.8

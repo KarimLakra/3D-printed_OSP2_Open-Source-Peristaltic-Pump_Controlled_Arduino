@@ -1,0 +1,6 @@
+Pump control: Remote
+Pulse width : 300.00
+Calib 0.1 ml: 40.00
+Calibr. 1 ml: 9.20
+Pump direct.: CW
+FilEmp speed: 99.00
