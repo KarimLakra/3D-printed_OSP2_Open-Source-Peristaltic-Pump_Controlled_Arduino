@@ -6,3 +6,9 @@ This project is not finished but it is working.
 
 This is the description of the project(also not complete) shared on Google Docs, if you can not open it here: 
 <a href="https://docs.google.com/document/d/1LbuHTzObYambpghvvagBYFq4LxzemCzu4StoPfHHYoI/edit?usp=sharing">Peristaltic pump</a>
+
+Videos:
+
+https://youtu.be/k6mOiT1_ZLY
+
+https://youtu.be/oCNA98Bd8yQ
