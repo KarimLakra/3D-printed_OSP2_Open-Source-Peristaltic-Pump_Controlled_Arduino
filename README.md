@@ -2,7 +2,7 @@
 
 <b>Edit 22/05/2020:</b></br>
 Added a schematic(use it for your own risk!).<br/>
-Added also a fix to the library file UTFT to fix the image if it's inverted, the changes are marked with "//Kardis" as a comment, some of them are just tests, I can't remember if they are necessary, just copy the file and paste it to the folder UTFT where your Arduino IDE libraries are located before you upload the code to the Arduino(this is not necassary if you display is showing correctly the colors).
+Added also a fix to the library file UTFT to fix the image if it's inverted, the changes are marked with "//Kardis" as a comment, some of them are just tests, I can't remember if they are necessary, just copy the file "UTFT.cpp" and paste it to the folder UTFT where your Arduino IDE libraries are located before you upload the code to the Arduino(this is not necassary if you display is showing correctly the colors).
 <br/>
 <br/>
 <br/>
